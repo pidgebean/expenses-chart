@@ -30,3 +30,12 @@ body{
     border-radius: 5%;
     padding: 2em;
 }
+
+#box-2 section{
+    display: flex;
+    flex-direction: row;
+}
+
+#box-2 section span{
+    padding-right: 1em;
+}
